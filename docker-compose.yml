@@ -1,0 +1,43 @@
+# Postgres + pgvector for the whole project. Ollama runs on the HOST (it
+# needs the GPU), not in a container.
+#
+# Port 5433 on purpose: if Postgres is already installed on the machine it
+# owns 5432, and the resulting "connection refused to the wrong database"
+# is an hour you will not enjoy.
+
+services:
+  db:
+    image: pgvector/pgvector:pg16
+    container_name: duet-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: duet
+      POSTGRES_PASSWORD: duet
+      POSTGRES_DB: duet
+      # Bangla text sorts and searches correctly under C.UTF-8; the
+      # tsvector config is 'simple' precisely because Postgres has no
+      # Bengali stemmer.
+      POSTGRES_INITDB_ARGS: "--encoding=UTF8 --locale=C.UTF-8"
+    ports:
+      - "5433:5432"
+    volumes:
+      - duet_pgdata:/var/lib/postgresql/data
+      - ./scripts/init_test_db.sql:/docker-entrypoint-initdb.d/10_test_db.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U duet -d duet"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+
+volumes:
+  duet_pgdata:
+
+# --- api and worker are added at M4, when the worker exists -------------
+# Until then run them on the host:
+#     uvicorn api.main:app --reload
+#     python -m jobs.worker
+#
+# When you do containerise them, Ollama on the host is reached with:
+#     OLLAMA_HOST=http://host.docker.internal:11434
+# and on Linux that name needs:
+#     extra_hosts: ["host.docker.internal:host-gateway"]

@@ -1,0 +1,2 @@
+﻿engine,pages_run,failures,pages_scored,mean_cer,median_cer,worst_cer,mean_wer,mean_sec_per_page
+easyocr,3,6,2,0.1444,0.1444,0.157,0.3015,244.96

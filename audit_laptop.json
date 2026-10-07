@@ -1,0 +1,26 @@
+{
+  "label": "laptop",
+  "timestamp_utc": "2026-08-28T14:28:44+00:00",
+  "os": "Windows 10",
+  "cpu": {
+    "processor": "Intel64 Family 6 Model 69 Stepping 1, GenuineIntel",
+    "logical_cores": 4,
+    "physical_cores": 2
+  },
+  "ram_gb": 11.9,
+  "disk_free_gb": 29.6,
+  "gpus": [],
+  "tooling": {
+    "python": "3.11.9",
+    "ollama_installed": true,
+    "ollama_version": "ollama version is 0.33.1",
+    "ollama_models": "NAME                  ID              SIZE      MODIFIED     \nllama3.2:latest       a80c4f17acd5    2.0 GB    2 months ago    \ndeepseek-r1:latest    6995872bfe4c    5.2 GB    2 months ago    \nbge-m3:latest         790764642607    1.2 GB    2 months ago",
+    "tesseract_installed": true,
+    "tesseract_version": "tesseract v5.5.0.20241111",
+    "tesseract_has_bengali": true,
+    "docker_installed": true,
+    "postgres_client": false
+  },
+  "cpu_benchmark_seconds": 1.63,
+  "llm_tier": "CPU-only / <6 GB VRAM"
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "table_index": 1,
+    "rows": 18,
+    "cols": 1,
+    "data": [
+      [
+        "Electrical Circuits: DC Sources, DC Circuits, Circuit Laws and Theorems, Fundamental of AC"
+      ],
+      [
+        "Circuit, Single Phase AC Circuits, Power and Power Factor, Resonance, Balanced Polyphase Circuit"
+      ],
+      [
+        "Analysis."
+      ],
+      [
+        "Power System: Single Line Diagram of Power System, Types of Transmission and Distribution"
+      ],
+      [
+        "System, Corona, Skin Effect, Mechanical Design of Overhead Line, Introduction of Switchgear."
+      ],
+      [
+        "Electrical Machine: Principle of Electromagnetic Induction, Armature Winding of Dynamo, Voltage"
+      ],
+      [
+        "Equation and Characteristics of DC Generators; Principle, Starting and Speed Control of DC Motors;"
+      ],
+      [
+        "Principle, Construction, Equivalent Circuits, Voltage Regulation, and Efficiency of Transformers;"
+      ],
+      [
+        "Single Phase and Polyphase Induction Motors; Voltage Equation and Voltage Regulation of"
+      ],
+      [
+        "Alternators; Principle and Starting of Synchronous Motors."
+      ],
+      [
+        "Electronic Devices & Circuits: Semiconductor Diodes, Rectifiers, Clipping and Clamping Circuits,"
+      ],
+      [
+        "Transistors, JFETs, MOSFETs, CMOS, Amplifiers, Voltage and Power Amplifiers, Class A, Class B"
+      ],
+      [
+        "and Class C Amplifiers, Oscillator Circuits, Operational Amplifier, Photoelectric Devices,"
+      ],
+      [
+        "Multivibrators, Radio and TV Transmitter/ Receiver."
+      ],
+      [
+        "Telecommunication: Various Types of Modulation and Demodulation- AM, FM, PM, AM-VSB."
+      ],
+      [
+        "Comparisons of Analog and Digital Communication, Bandwidth and Channel Capacity, Noise in"
+      ],
+      [
+        "Communication, PAM, PWM, PPM, TDM and FDM. Components and Basic Principle of Telephony,"
+      ],
+      [
+        "Satellite Communication, Optical Fiber Communication and Cellular Communication."
+      ]
+    ]
+  },
+  {
+    "table_index": 2,
+    "rows": 3,
+    "cols": 1,
+    "data": [
+      [
+        "Digital Electronics and Computer Technology: Number Systems, Boolean Algebra, Logic Gates,"
+      ],
+      [
+        "Combinational and Sequential Logic Circuits, Adder/Subtractor, Encoders, Decoders, Multiplexer and"
+      ],
+      [
+        "Demultiplexer, Flip-Flops, Registers, Counters; Introduction to Micro-computers, Micro-Computer"
+      ]
+    ]
+  }
+]

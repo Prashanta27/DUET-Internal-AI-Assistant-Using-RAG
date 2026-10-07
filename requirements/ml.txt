@@ -1,0 +1,6 @@
+# Embeddings and reranking. Heavy -- install after base.txt.
+# On the laptop install the CPU wheel of torch first:
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+sentence-transformers>=3.3
+transformers>=4.46
+torch>=2.4

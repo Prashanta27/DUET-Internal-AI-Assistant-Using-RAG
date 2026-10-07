@@ -1,0 +1,5 @@
+# M3. Not needed for M1 (DIGITAL documents only).
+pytesseract>=0.3.13
+pillow>=11.0
+# easyocr>=1.7
+# surya-ocr>=0.6

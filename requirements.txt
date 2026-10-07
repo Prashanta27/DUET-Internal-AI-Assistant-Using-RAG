@@ -1,0 +1,13 @@
+# Full install -- everything the project needs.
+#   pip install -r requirements.txt
+#
+# During M0 you do NOT want this: it pulls torch (~2-3 GB) which the OCR
+# bake-off never touches. For M0 install only:
+#   pip install -r requirements/base.txt -r requirements/ocr.txt -r requirements/dev.txt
+#
+# See requirements/README.md for which group each milestone needs.
+
+-r requirements/base.txt
+-r requirements/ocr.txt
+-r requirements/ml.txt
+-r requirements/api.txt

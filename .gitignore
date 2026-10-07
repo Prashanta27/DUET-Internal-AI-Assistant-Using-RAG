@@ -1,0 +1,83 @@
+# ==========================================================================
+# DUET AI Assistant -- .gitignore
+#
+# CRITICAL: this project handles university internal documents. Nothing that
+# contains document CONTENT may ever be committed. Measurements and code are
+# fine; the documents themselves and any text extracted from them are not.
+# ==========================================================================
+
+# ---- university document content -- NEVER COMMIT ----
+m0_reality_check/samples/
+m0_reality_check/ground_truth/
+m0_reality_check/ground_truth_draft/
+m0_reality_check/results/pages/
+m0_reality_check/results/raw/
+m0_reality_check/_selftest/
+data/raw/
+data/processed/
+storage/
+uploads/
+
+# Keep the folders themselves, drop the contents
+!m0_reality_check/samples/PUT_DOCUMENTS_HERE.txt
+!m0_reality_check/ground_truth/README.txt
+
+# ---- measurements ARE safe to commit (numbers only, no content) ----
+!m0_reality_check/results/summary.csv
+!m0_reality_check/results/per_page.csv
+
+# ---- the golden question set ----
+# Contains real questions and answers drawn from internal documents.
+# Safe in a PRIVATE repo. If this repo ever becomes public, remove it first.
+# m0_reality_check/golden_questions.xlsx
+
+# ---- secrets ----
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+config/local_settings.py
+
+# ---- python ----
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+legacy_check/
+
+# any virtualenv, whatever it got named. A venv inside the repo is ~1 GB of
+# somebody else's code; committing it once is very hard to undo.
+*/pyvenv.cfg
+duet_ai_assistant/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+*.egg-info/
+
+# ---- models and caches (large, re-downloadable) ----
+models/
+.cache/
+*.gguf
+*.safetensors
+
+# ---- database and logs ----
+*.sqlite3
+*.db
+pgdata/
+logs/
+*.log
+
+# ---- editors / os ----
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+~$*.xlsx

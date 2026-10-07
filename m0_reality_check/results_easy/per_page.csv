@@ -1,0 +1,10 @@
+﻿page_id,engine,doc_class,seconds,chars_out,cer,wer,error
+Dean_Award_সিভিল_ইঞ্জিনিয়ারিং_অনুষদ_p1,easyocr,SCANNED,167.76,0,,,'NoneType' object has no attribute 'shape'
+Dean_Award_সিভিল_ইঞ্জিনিয়ারিং_অনুষদ_p2,easyocr,SCANNED,60.53,0,,,'NoneType' object has no attribute 'shape'
+DUET_এর_২৩তম_বর্ষপূর্তিতে__DUET_Day_p1,easyocr,SCANNED,64.18,0,,,'NoneType' object has no attribute 'shape'
+List_of_All_Applicants_of_3499_-_d)_Lecturer_(MME)_p1,easyocr,SCANNED,187.04,729,0.1318,0.2479,
+List_of_All_Applicants_of_3499_-_d)_Lecturer_(MME)_p2,easyocr,SCANNED,276.45,1334,,,
+OFFICE_OF_THE_DIRECTOR_(Physical_Education_Center)_p1,easyocr,SCANNED,271.39,2480,0.157,0.3551,
+washroom_পানি_সরবরাহ_p1,easyocr,SCANNED,73.09,0,,,'NoneType' object has no attribute 'shape'
+অফিস_আদেশ_p1,easyocr,SCANNED,78.19,0,,,'NoneType' object has no attribute 'shape'
+জনাব_মোছাফাতেমা_আমিন_আঁখি__NOC_p1,easyocr,SCANNED,61.58,0,,,'NoneType' object has no attribute 'shape'

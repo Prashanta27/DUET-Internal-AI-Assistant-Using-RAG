@@ -1,0 +1,2 @@
+﻿engine,pages_run,failures,pages_scored,mean_cer,median_cer,worst_cer,mean_wer,mean_sec_per_page
+tesseract,9,0,7,0.3071,0.2463,0.7595,0.4343,8.36

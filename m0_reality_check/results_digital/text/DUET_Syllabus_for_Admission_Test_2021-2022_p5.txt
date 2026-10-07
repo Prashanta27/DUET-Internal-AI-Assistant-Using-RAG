@@ -1,0 +1,44 @@
+AvÛviMÖ¨vRy‡qU †cÖvMÖvg-Gi fwZ© cixÿv welqK Z_¨vejx (cÖm‡c±vm), wkÿvel© 2021-2022 
+c„ôv bs 19 
+and Microprocessor Architecture, Introduction to Computer Programming Language: Assembly 
+Language and High-Level Language Programming, LAN, WAN and Internet. 
+ 
+Mechanical Engineering 
+Foundry: Pattern materials; tools and processes used in foundry.  
+Welding: Different types of welding processes; Joints and related tools.  
+Machine Tools and Metal Cutting Processes: Turning; Shaping; Drilling; Planing; Grinding & 
+Milling Machines; Cutting Processes; Tools & Cutting Fluids; Jigs & Fixtures.  
+Metallurgy: Furnaces and refractories; ferrous and non-ferrous metals and alloys; Iron-Iron carbide 
+diagram; Heat treatment of steel.  
+Production Management, Planning & Control: Organization; Scientific Management; Direct & 
+Indirect Cost; Depreciation Methods; Different types of production systems; Location; Layout; Work 
+measurement; Inventory Control; Precision & non-precision measuring instruments; Limits-fits & 
+Tolerances; Quality control.  
+Measurement and Inspection: Measurement and inspection instruments.  
+Engineering Mechanics: Equilibrium of Co-planer forces; Friction; Moment of inertia; Work, power 
+and energy.  
+Strength of Materials: Stress and Strain; Mechanical properties of material; Deformation of materials; 
+Shear forces and bending moment diagrams; Torsion.  
+Thermodynamics and Heat Engine: Thermodynamic properties; Laws of perfect gas; Laws of 
+thermodynamics; Carnot, Otto, Diesel and Dual cycles; Two-stroke and four-stroke engines and their 
+performances; Principle of refrigeration; Properties of steam; Boilers and their accessories and 
+mountings; Fuels and lubricants.  
+Hydraulics: Viscosity; Fluid statics; Manometery; fluid flow measurements and measuring devices; 
+head loss; hydraulic machineries and devices.  
+General Electricity: Basic Circuits and their laws; Electrical machineries: types and principles of 
+operation; Voltmeters; Ammeters and other measuring instruments; Semiconductor diodes and 
+Transistors and their characteristics. 
+ 
+Computer Science and Engineering 
+Computer Fundamentals: Basic Organization and Functional Units; Hardware, Software, Software 
+and its applications.  
+Basic Programming: Basic program structure and IDE, pseudo code, header files, data types 
+operators, variables and expressions; Input and Output; control statement and decision making, loop 
+sructure, arrays, strings, pointers, function, recursion, pointers and dynamic memory allocation, arrays, 
+strings, multidimensional array; structures, unions enumerations, file I/O system, linking, library 
+functions.  
+Object Oriented Programming (C++/Python): Object oriented programming basics, class & object, 
+Properties of object-oriented programming.  
+Discrete Mathematics: Probability theory, Counting, tree & graph.  
+Data Structure: Array, pointer, linked list, stack, queue, searching.  
+Database Management: Database system concept, data models, query languages.  

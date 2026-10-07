@@ -1,0 +1,969 @@
+DAY
+TIME (Sessional)
+TIME (Theory)
+08.00 
+08.30
+08.30 
+09.20
+09.20 
+10.10
+10.10 
+10.40
+10.40 
+11.30
+11.30 
+12.20
+12.20 
+01.10
+01.10 
+02.00
+02.00  
+02.50  
+02.50 
+03.40
+03.40 
+04.30
+08.00 
+08.30
+08.30 
+09.20
+09.20 
+10.10
+10.10 
+10.40
+10.40 
+11.30
+11.30 
+12.20
+12.20 
+01.10
+01.10 
+02.00
+02.00  
+02.50  
+02.50 
+03.40
+03.40 
+04.30
+08.00 
+08.30
+08.30 
+09.20
+09.20 
+10.10
+10.10 
+10.40
+10.40 
+11.30
+11.30 
+12.20
+12.20 
+01.10
+01.10 
+02.00
+02.00  
+02.50  
+02.50 
+03.40
+03.40 
+04.30
+08.00 
+08.30
+08.30 
+09.20
+09.20 
+10.10
+10.10 
+10.40
+10.40 
+11.30
+11.30 
+12.20
+12.20 
+01.10
+01.10 
+02.00
+02.00  
+02.50  
+02.50 
+03.40
+03.40 
+04.30
+08.00 
+08.30
+08.30 
+09.20
+09.20 
+10.10
+10.10 
+10.40
+10.40 
+11.30
+11.30 
+12.20
+12.20 
+01.10
+01.10 
+02.00
+02.00 
+02.50  
+02.50 
+03.40
+03.40 
+04.30
+PERIOD
+1
+2
+3
+4
+5
+6
+7
+8
+9
+1
+2
+3
+4
+5
+6
+7
+8
+9
+1
+2
+3
+4
+5
+6
+7
+8
+9
+1
+2
+3
+4
+5
+6
+7
+8
+9
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Room for 1st Year 2nd Sem
+Section A
+CSE 
+1121
+Math 
+1421
+Math 
+1421
+HSS 
+1427
+CSE 
+1823
+Math 
+1421
+CSE 
+1121
+Phy 
+1423
+CSE 
+1823
+HSS 
+1427
+CSE 
+1823
+CSE 
+1121
+HSS 
+1427
+Phy 
+1423
+Math 
+1421
+Phy 
+1423
+Room for 1st Year 2nd Sem
+Section B
+Math 
+1421
+CSE 
+1121
+HSS 
+1427
+Math 
+1421
+Math 
+1421
+CSE 
+1823
+Phy 
+1423
+CSE 
+1121
+HSS 
+1427
+CSE 
+1823
+CSE 
+1121
+CSE 
+1823
+Phy 
+1423
+HSS 
+1427
+Phy 
+1423
+Math 
+1421
+Room for 2nd Year 2nd Sem
+Section A
+Math 
+2421
+EEE 
+2823
+CSE 
+2321
+Math 
+2421
+EEE 
+2823
+CSE 
+2521
+Math 
+2421
+CSE 
+2321
+CSE 
+2823
+Math 
+2421
+CSE 
+2823
+CSE 
+2321
+CSE 
+2521
+CSE 
+2521
+EEE 
+2823
+CSE 
+2823
+Room for 2nd Year 2nd Sem
+Section B
+Math 
+2421
+CSE 
+2321
+EEE 
+2823
+Math 
+2421
+CSE 
+2521
+EEE 
+2823
+Math 
+2421
+CSE 
+2823
+CSE 
+2321
+CSE 
+2823
+Math 
+2421
+CSE 
+2521
+CSE 
+2321
+CSE 
+2521
+CSE 
+2823
+EEE 
+2823
+Room for 3rd Year 2nd Sem
+Section A
+HSS 
+3427
+CSE 
+3421
+CSE 
+3721
+CSE 
+3621
+CSE 
+3221
+CSE 
+3421
+CSE 
+3621
+CSE 
+3221
+HSS 
+3427
+CSE 
+3721
+CSE 
+3621
+CSE 
+3721
+CSE 
+3421
+CSE 
+3221
+HSS 
+3427
+Room for 3rd Year 2nd Sem
+Section B
+CSE 
+3421
+HSS 
+3427
+CSE 
+3621
+CSE 
+3721
+CSE 
+3421
+CSE 
+3221
+CSE 
+3621
+HSS 
+3427
+CSE 
+3221
+CSE 
+3621
+CSE 
+3721
+CSE 
+3421
+CSE 
+3721
+HSS 
+3427
+CSE 
+3221
+Room for 4th Year 2nd Sem
+Section A
+CSE 
+4721
+CSE 
+4523
+CSE 
+4827
+CSE 
+4827
+CSE 
+4721
+CSE 
+4523
+HSS 
+4427
+CSE 
+4721
+CSE 
+4621
+CSE 
+4621
+CSE 
+4621
+HSS 
+4427
+CSE 
+4827
+HSS 
+4427
+CSE 
+4523
+Room for 4th Year 2nd Sem
+Section B
+CSE 
+4721
+CSE 
+4523
+CSE 
+4827
+CSE 
+4721
+CSE 
+4827
+HSS 
+4427
+CSE 
+4523
+CSE 
+4721
+CSE 
+4823
+CSE 
+4823
+CSE 
+4823
+CSE 
+4827
+HSS 
+4427
+CSE 
+4523
+HSS 
+4427
+NAME OF TEACHERS
+Dr. Mohammod Abul Kashem 
+(Professor, CSE)
+CSE 
+4721
+CSE 
+4721
+CSE 
+3721
+CSE 
+3721
+Dr. Md. Nasim Akhtar 
+(Professor, CSE)
+CSE 
+3221
+CSE 
+3221
+CSE 
+2321
+CSE 
+2321
+CSE 
+2321
+CSE 
+2321
+Dr. Mohammad Abdur Rouf 
+(Professor, CSE)
+CSE 
+4827
+CSE 
+4827
+CSE 
+2823
+CSE 
+2823
+CSE 
+4827
+CSE 
+4827
+Dr. Fazlul Hasan Siddiqui 
+(Professor, CSE)
+CSE 
+3621
+CSE 
+3621
+CSE 
+3621
+CSE 
+3621
+CSE 
+4621
+Dr. Md. Obaidur Rahman 
+(Professor, CSE)
+CSE 
+3421
+CSE 
+3421
+CSE 
+3421
+CSE 
+3421
+Dr. Rafiqul Islam 
+(Professor, CSE)
+CSE 
+1823
+CSE 
+1823
+CSE 
+4823
+CSE 
+1823
+CSE 
+1823
+Dr. Momotaz Begum 
+(Professor and Head, CSE)
+CSE 
+4721
+CSE 
+4721
+CSE 
+4721
+CSE 
+4721
+Dr. Md. Shafiqul Islam 
+(Professor, CSE)
+CSE 
+1823
+CSE 
+1823
+CSE 
+4823
+CSE 
+4823
+Dr. Amran Hossain 
+(Professor, CSE)
+CSE 
+4621
+CSE 
+4621
+CSE 
+2521
+CSE 
+2521
+Dr. Md. Jakirul Islam 
+(Professor, CSE)
+CSE 
+4523
+CSE 
+4523
+CSE 
+2521
+CSE 
+2521
+CSE 
+2521
+CSE 
+2521
+Dr. Md. Shohidul Islam 
+(Professor, CSE)
+CSE 
+1121
+CSE 
+1121
+CSE 
+4827
+CSE 
+4827
+CSE 
+1121
+CSE 
+1121
+Dr. Sabah Binte Noor 
+(Associate Professor, CSE)
+CSE 
+3621
+CSE 
+3621
+Ms. Sumaya Kazary 
+(Assistant Professor, CSE))
+CSE 
+3421
+CSE 
+3421
+Dr. Umme Fawzia Rahim 
+(Assistant Professor, CSE)
+CSE 
+1121
+CSE 
+1121
+Mr. Md. Abu Bakkar Siddique 
+(Assistant Professor, CSE)
+CSE 
+2321
+CSE 
+2321
+CSE 
+4523
+CSE 
+4523
+CSE 
+4523
+CSE 
+4523
+Mst. Sumaya Khatun 
+(Assistant Professor, CSE)
+CSE 
+3221
+CSE 
+3221
+CSE 
+3221
+CSE 
+3221
+Mr. Litan Islam 
+(Assistant Professor, CSE)
+CSE 
+3721
+CSE 
+3721
+CSE 
+3721
+CSE 
+3721
+Mr. Md. Rajibul Islam 
+(Assistant Professor, CSE)
+CSE 
+2823
+CSE 
+2823
+CSE 
+2823
+CSE 
+2823
+CSE 4004
+CSE 4000
+CSE 4000
+CSE 4722
+CSE 4000
+CSE 4000
+TWB - 520
+TWB - 520
+CSE 2322
+CSE 2122 / CSE 2522
+EEE 2824
+TWB - 517
+CSE 2122 (A)
+L
+U
+N
+C
+H
+ 
+B
+R
+E
+A
+K
+TWB - 518
+L
+U
+N
+C
+H
+ 
+B
+R
+E
+A
+K
+TWB - 520
+CSE 2124 
+T
+E
+A
+ 
+B
+R
+E
+A
+K
+ 
+CSE 1824
+TWB - 518
+Phy 1424
+CSE 1824 / HSS 1428
+CSE 2322
+CSE 3722
+CSE 3222 
+CSE 2122 (B)
+CSE 4622
+CSE 1122 (A)
+CSE 4000
+08:00 AM - 10:30 AM
+10:40 AM - 01:10 PM
+02:00 PM - 04:30 PM
+08:00 AM - 10:30 AM
+10:40 AM - 01:10 PM
+02:00 PM - 04:30 PM
+08:00 AM - 10:30 AM
+10:40 AM - 01:10 PM
+02:00 PM - 04:30 PM
+CSE 4000
+CSE 3120
+Class Start: 21.06.2026
+THURSDAY
+08:00 AM - 10:30 AM
+10:40 AM - 01:10 PM
+02:00 PM - 04:30 PM
+MONDAY
+TUESDAY
+08:00 AM - 10:30 AM
+10:40 AM - 01:10 PM
+CSE 4000
+TWB - 518
+T
+E
+A
+ 
+B
+R
+E
+A
+K
+ 
+TWB - 520
+CSE 4722
+CSE 4000
+CSE 3722
+CSE 4000
+CSE 3120
+CSE 3120
+CSE 2124
+CSE 3622 
+CSE 4000
+CSE 3422 
+CSE 1122 (B)
+CSE 4000
+CSE 4000
+CSE 2522
+CSE 2522
+CSE 4000
+CSE 4000
+CSE 4000
+Prof. Dr. Momotaz Begum
+Head, Dept. of CSE, DUET
+PSTN: 880-2-49274011, IP Phone: 880-09612110513, PABX: 49274034-53 / Ext.3201, IP PABX: 2124-007, E-mail: head_cse@duet.ac.bd
+CLASS ROUTINE (After Mid-Term) [Last Modified On: 13.08.2026]
+WEDNESDAY
+T
+E
+A
+ 
+B
+R
+E
+A
+K
+ 
+CSE 3222 
+7011= Mobile Application and Game Testing Lab
+Chairman, Routine Committee, DUET, Gazipur
+Course Coordinator (UGP)   
+CSE 1122 (A)
+TWB = Textile Workshop Building
+Dr. Hasan Mohammad Mostofa Afroz
+Litan Islam, Asst. Prof., Dept. of CSE
+CSE 4000
+CSE 2124 
+CSE 3120
+CSE 2124
+CSE 2122 (A)
+CSE 4000
+CSE 4000
+CSE 4000
+CSE 1122 (B)
+CSE 2322
+CSE 4000
+CSE 4000
+CSE 4000
+CSE 4004
+CSE 4000
+CSE 4000
+CSE 4000
+CSE 4824
+CSE 4000
+CSE 2122 (B)
+CSE 4000
+CSE 1824
+CSE 4000
+CSE 4000
+CSE 4000
+CSE 4622
+CSE 3622 
+CSE 3422 
+CSE 4000
+CSE 4824
+CSE 4000
+CSE 4000
+CSE 4000
+CSE 2124
+CSE 4000
+CSE 4000
+CSE 4000
+CSE 4000
+CSE 4000
+ 
+CSE 4622 / CSE 4824
+L
+U
+N
+C
+H
+ 
+B
+R
+E
+A
+K
+CSE 2322
+7010
+11010
+CSE 3722
+7020
+11009
+7020
+02:00 PM - 04:30 PM
+TWB - 518
+11010
+CSE 3120
+11009
+11010
+HSS 1428
+11010 / 7020
+TWB - 520
+11010
+HSS 1428 / CSE 1824
+TWB - 516
+7020 / 11010
+TWB - 512
+TWB - 512
+HSS 1428
+7010
+TWB - 517
+TWB - 518
+L
+U
+N
+C
+H
+ 
+B
+R
+E
+A
+K
+TWB - 516
+TWB - 519
+CSE 3622 
+11009
+CSE 4000
+CSE 4622 / CSE 4824
+7020
+Physics Lab
+Phy 1424
+7010
+TWB - 512
+TWB - 512
+11010 / 7010
+Physics Lab
+7010/ 11010
+CSE 2522 / CSE 2122
+11010
+TWB - 518
+T
+E
+A
+ 
+B
+R
+E
+A
+K
+ 
+TWB - 516
+TWB - 520
+CSE 1122 (A)
+EEE 2824
+7010
+7010
+CSE 1122 (B)
+TWB - 512
+7020
+TWB - 517
+TWB - 517
+11010
+11010
+11010
+11010
+11010
+CSE 4004 / CSE 4722
+11010
+11010
+7010/ 11010
+CSE 4000
+11010
+CSE 4000
+CSE 4722 / CSE 4004
+Session: 2024-2025 (1/2,  2/2, 3/2, and 4/2)
+TWB - 516
+TWB - 516
+TWB 313 / 315
+TWB - 519
+T
+E
+A
+ 
+B
+R
+E
+A
+K
+ 
+L
+U
+N
+C
+H
+ 
+B
+R
+E
+A
+K
+TWB - 512
+TWB - 520
+TWB - 517
+SUNDAY
+TWB - 518
+TWB - 518
+TWB - 520
+11009
+11009
+11010 / 7010
+TWB - 519
+11009
+11009
+11009
+7010
+CSE 3422 
+CSE 3722
+CSE 3222
+CSE 3622 
+CSE 3120
+TWB - 519
+TWB - 519
+TWB - 519
+7020
+TWB - 519
+TWB - 519
+7020
+7020
+CSE 3222
+11009
+CSE 3422 
+TWB - 516
+TWB - 512
+TWB - 512
+7020
+TWB - 512
+TWB 313 / 318
+TWB - 512
+7020
+TWB - 517
+7020
+CSE 2124 
+TWB - 516
+TWB - 517
+TWB - 517
+TWB - 516
+TWB - 516
+DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING
+Dhaka University of  Engineering & Technology, Gazipur
+Gazipur-1707, Bangladesh.
+Class Test Time: 08:00 - 08:30
+Tea Break: 10:10 - 10:40
+Lunch Break: 01:10 - 02:00

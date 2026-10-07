@@ -1,0 +1,45 @@
+XvKv cÖ‡KŠkj I cÖhyw³ wek¦we`¨vjq, MvRxcyi 
+c„ôv bs 18 
+Syllabus for Admission Test 2021-2022 
+Second Paper 
+Departmental Subjects 
+ 
+Civil Engineering 
+Structural Mechanics: Scalar and vector quantities; Force systems; Equilibrium and freebody 
+diagrams; Friction; Centroid and centre of gravity; Moment of inertia; Work, power and energy.  
+Strength of Materials: Stresses and strains; Mechanical properties of materials; Bending moment and 
+shear force diagrams; Flexural and shear stresses; Deflection.  
+Engineering Materials: Bricks; Aggregates; Cement; Mortars (Lime and Cement); Concrete; Timber.  
+Estimating and Construction Process: Estimating of earthwork; Brick work; Mortar and concrete in 
+foundations and superstructures, Rate analysis. Foundations, Masonry works, Damp proof, Stairs, 
+Plastering and pointing, Formworks, Paintings, Construction equipments.  
+Hydraulics: Fluid characteristics; Flow of fluid; Notches and weirs; Pipe friction and flow through 
+pipes.  
+Reinforced Cement Concrete: Materials of R.C.C. and their properties; Design of beams; One-way 
+and Two-way slabs; Axially loaded columns; Wall and individual column footing; Design of stair, 
+Masonry retaining wall.  
+Surveying: Chain survey; Plane table surveying; Leveling and contouring; Traversing; Theodolite and 
+curve ranging, Topographic survey. 
+ 
+Electrical and Electronic Engineering 
+Electrical Circuits: DC Sources, DC Circuits, Circuit Laws and Theorems, Fundamental of AC 
+Circuit, Single Phase AC Circuits, Power and Power Factor, Resonance, Balanced Polyphase Circuit 
+Analysis.  
+Power System: Single Line Diagram of Power System, Types of Transmission and Distribution 
+System, Corona, Skin Effect, Mechanical Design of Overhead Line, Introduction of Switchgear. 
+Electrical Machine: Principle of Electromagnetic Induction, Armature Winding of Dynamo, Voltage 
+Equation and Characteristics of DC Generators; Principle, Starting and Speed Control of DC Motors; 
+Principle, Construction, Equivalent Circuits, Voltage Regulation, and Efficiency of Transformers; 
+Single Phase and Polyphase Induction Motors; Voltage Equation and Voltage Regulation of 
+Alternators; Principle and Starting of Synchronous Motors. 
+Electronic Devices & Circuits: Semiconductor Diodes, Rectifiers, Clipping and Clamping Circuits, 
+Transistors, JFETs, MOSFETs, CMOS, Amplifiers, Voltage and Power Amplifiers, Class A, Class B 
+and Class C Amplifiers, Oscillator Circuits, Operational Amplifier, Photoelectric Devices, 
+Multivibrators, Radio and TV Transmitter/ Receiver.  
+Telecommunication: Various Types of Modulation and Demodulation- AM, FM, PM, AM-VSB. 
+Comparisons of Analog and Digital Communication, Bandwidth and Channel Capacity, Noise in 
+Communication, PAM, PWM, PPM, TDM and FDM. Components and Basic Principle of Telephony, 
+Satellite Communication, Optical Fiber Communication and Cellular Communication. 
+Digital Electronics and Computer Technology: Number Systems, Boolean Algebra, Logic Gates, 
+Combinational and Sequential Logic Circuits, Adder/Subtractor, Encoders, Decoders, Multiplexer and 
+Demultiplexer, Flip-Flops, Registers, Counters; Introduction to Micro-computers, Micro-Computer 
